@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ShoreUp</title>
+        <item>
+            <title>0.8.0</title>
+            <pubDate>Tue, 21 Jul 2026 23:38:34 +0800</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ShoreUp 0.8.0</h2>
+<ul>
+  <li>新增“设置 → 软件更新”，支持安全的应用内更新。</li>
+  <li>接入 Sparkle EdDSA 更新签名，防止更新包被替换。</li>
+  <li>优化 Debug 与正式版身份隔离、钥匙串读取和系统权限体验。</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/ShoreUp-0.8.0.zip" length="4973987" type="application/octet-stream" sparkle:edSignature="v/rGdUfZ6AfIBA+uFPrHQ2lqwthV1pq+52txVON4ByG1NoyMfx/pznLO4iX8sWrlzodXNRxbjG7O4lc+u98uDA=="/>
+        </item>
+    </channel>
+</rss>
