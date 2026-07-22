@@ -3,20 +3,20 @@
     <channel>
         <title>Noetira</title>
         <item>
-            <title>Noetira 0.9.4</title>
-            <pubDate>Wed, 22 Jul 2026 15:38:00 +0800</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
+            <title>Noetira 0.9.5</title>
+            <pubDate>Wed, 22 Jul 2026 16:28:00 +0800</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Noetira 0.9.4</h2>
+            <description><![CDATA[<h2>Noetira 0.9.5</h2>
 <ul>
-  <li>AI 与 API 设置新增 Token 用量统计和最近 14 天趋势。</li>
-  <li>兼容常见服务商用量字段，并明确标记未返回 Token 的调用。</li>
-  <li>改善覆盖安装后的启动台应用索引刷新。</li>
-  <li>Noetira 激活工具新增独立图标。</li>
+  <li>修复完整备份无法导出的问题，并改进导出、恢复文件面板。</li>
+  <li>新增本地数据文件夹直达按钮和备份恢复步骤说明。</li>
+  <li>自动将原 ShoreUp 数据目录和数据库迁移为 Noetira。</li>
+  <li>补充更新或重装后的屏幕录制重新授权说明。</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-0.9.4.zip" length="5195949" type="application/octet-stream" sparkle:edSignature="q9hX65wap97XOrRbUP4txtLYRWYd7BYJPGOecpJu7YZLGh/QcX6GKCI7RV5iszrqL9t9g7ew3Zr7KRvHIcEfBg=="/>
+            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-0.9.5.zip" length="5202168" type="application/octet-stream" sparkle:edSignature="3lA7LbSdnp+WzsYVaEFTzFgdw9ruHBGUbG0/T0clL5s2WdWDkBuOcKTIRIGH488/JcNgwNlG3bxEFaluEix8Ag=="/>
         </item>
     </channel>
 </rss>
