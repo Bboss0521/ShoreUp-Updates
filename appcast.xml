@@ -3,19 +3,20 @@
     <channel>
         <title>Noetira</title>
         <item>
-            <title>Noetira 0.9.3</title>
-            <pubDate>Wed, 22 Jul 2026 15:08:03 +0800</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
+            <title>Noetira 0.9.4</title>
+            <pubDate>Wed, 22 Jul 2026 15:38:00 +0800</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Noetira 0.9.3</h2>
+            <description><![CDATA[<h2>Noetira 0.9.4</h2>
 <ul>
-  <li>图片选项无法识别时自动创建 A、B、C、D 图片选项。</li>
-  <li>复盘模块单独展示每日和每周学习 App 自动计时。</li>
-  <li>明确系统空闲检测不需要辅助功能权限。</li>
+  <li>AI 与 API 设置新增 Token 用量统计和最近 14 天趋势。</li>
+  <li>兼容常见服务商用量字段，并明确标记未返回 Token 的调用。</li>
+  <li>改善覆盖安装后的启动台应用索引刷新。</li>
+  <li>Noetira 激活工具新增独立图标。</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-0.9.3.zip" length="5144240" type="application/octet-stream" sparkle:edSignature="CENzBjJ1nlNZx6PIOX+ODr0hWQZzJPFx7hnzIVcO5DWWfX9s3dRJ0ICkQKmYlwi5GfZLAIUUyLZyTZbA8YkdBg=="/>
+            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-0.9.4.zip" length="5195949" type="application/octet-stream" sparkle:edSignature="q9hX65wap97XOrRbUP4txtLYRWYd7BYJPGOecpJu7YZLGh/QcX6GKCI7RV5iszrqL9t9g7ew3Zr7KRvHIcEfBg=="/>
         </item>
     </channel>
 </rss>
