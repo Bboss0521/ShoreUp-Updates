@@ -3,6 +3,21 @@
     <channel>
         <title>Noetira</title>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Thu, 23 Jul 2026 00:08:31 +0800</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.4.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.4.zip" length="8702011" type="application/octet-stream" sparkle:edSignature="+J7hr2OMUsYdwbwVS0SlJOXmRDzvjDWY/NP3M5olL85rm+8wA/KI8ysbIJMXyx0z3ZzhJt0Z44jPDYl9TmzlAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira30-29.delta" sparkle:deltaFrom="29" length="1101094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="BhlVas9PoIo72MYf6hxJRQXFtq3VbS9nN8CYFKKHWrrRSlnQVtcbcYGlUQ+fjOuQzC0mfuWxgVqyxqga7k8cCw=="/>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira30-28.delta" sparkle:deltaFrom="28" length="1365518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="yitJd1l26w+HC2htdYzwIMz+d7I3OBsGbH+/a27LUMlwLBe7Ns1QS70VXYIsx22bAuZ196o6Vj9I9fmwx6MLDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira30-27.delta" sparkle:deltaFrom="27" length="1395174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="9wRkGrkHmeLCkkgS7hzsNt/gdQv5x0fUXnqZTNMM2GP6zydYYvC78N0ijwrQzSNS4iORwPect0AyfTzxsYhRDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira30-26.delta" sparkle:deltaFrom="26" length="2404094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="uMlOqV8EqMO96WKCd9gd9rzMRpnwthfHPHmNgJCKquDdRAg/UYAmvLGy1V1c98Ax5/BeNW7ElckoKadhdTDCCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Wed, 22 Jul 2026 22:59:42 +0800</pubDate>
             <sparkle:version>29</sparkle:version>
@@ -33,20 +48,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.1.html</sparkle:releaseNotesLink>
             <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.1.zip" length="8509647" type="application/octet-stream" sparkle:edSignature="szscDbHKC3UefQDI7l5Q9roIYD/Hr3umraf0G9mTZYwmoC/uwRHWQW9boRUrQL/Wx2ImsipawK67lZXyAxuTCQ=="/>
-        </item>
-        <item>
-            <title>Noetira 1.0.0</title>
-            <pubDate>Wed, 22 Jul 2026 16:44:00 +0800</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Noetira 1.0.0</h2>
-<ul>
-  <li>错题复盘与重新作答时自动打乱选项顺序，减少因固定位置形成的答案记忆。</li>
-  <li>每次开始新一轮作答都会重新排列选项，同时保持正确答案判定准确。</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.0.zip" length="5204593" type="application/octet-stream" sparkle:edSignature="3HBL49X9Xpjbuyv0HxQJ1bd0VTJOiGEw1O9M0czVS4r4t3v0sN5VCCFKwVYHpenm3crtx9kwMMyduFSZI82gBQ=="/>
         </item>
     </channel>
 </rss>

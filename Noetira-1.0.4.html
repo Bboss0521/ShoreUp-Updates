@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Noetira 1.0.4 更新说明</title>
+</head>
+<body>
+  <h2>Noetira 1.0.4</h2>
+  <ul>
+    <li>修复每日招考监测重复检查时容易误报“网络连接失败”的问题。</li>
+    <li>减少连续搜索请求，增加短暂失败重试，并在主搜索源受限时自动切换备用搜索源。</li>
+    <li>区分网络波动、搜索源限流和近 7 天暂无结果，不再把所有情况都判断为电脑断网。</li>
+    <li>每日监测和手动查找的公告会合并保存为历史，不再被下一次检查覆盖。</li>
+    <li>公告历史支持单条删除和确认后清空全部记录。</li>
+  </ul>
+  <p>搜索失败不会删除已有公告历史。本次更新不会清除学习数据、错题图片、激活信息或 API 配置。</p>
+</body>
+</html>
