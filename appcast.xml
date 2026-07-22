@@ -3,20 +3,18 @@
     <channel>
         <title>Noetira</title>
         <item>
-            <title>Noetira 0.9.5</title>
-            <pubDate>Wed, 22 Jul 2026 16:28:00 +0800</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
+            <title>Noetira 1.0.0</title>
+            <pubDate>Wed, 22 Jul 2026 16:44:00 +0800</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Noetira 0.9.5</h2>
+            <description><![CDATA[<h2>Noetira 1.0.0</h2>
 <ul>
-  <li>修复完整备份无法导出的问题，并改进导出、恢复文件面板。</li>
-  <li>新增本地数据文件夹直达按钮和备份恢复步骤说明。</li>
-  <li>自动将原 ShoreUp 数据目录和数据库迁移为 Noetira。</li>
-  <li>补充更新或重装后的屏幕录制重新授权说明。</li>
+  <li>错题复盘与重新作答时自动打乱选项顺序，减少因固定位置形成的答案记忆。</li>
+  <li>每次开始新一轮作答都会重新排列选项，同时保持正确答案判定准确。</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-0.9.5.zip" length="5202168" type="application/octet-stream" sparkle:edSignature="3lA7LbSdnp+WzsYVaEFTzFgdw9ruHBGUbG0/T0clL5s2WdWDkBuOcKTIRIGH488/JcNgwNlG3bxEFaluEix8Ag=="/>
+            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.0.zip" length="5204593" type="application/octet-stream" sparkle:edSignature="3HBL49X9Xpjbuyv0HxQJ1bd0VTJOiGEw1O9M0czVS4r4t3v0sN5VCCFKwVYHpenm3crtx9kwMMyduFSZI82gBQ=="/>
         </item>
     </channel>
 </rss>
