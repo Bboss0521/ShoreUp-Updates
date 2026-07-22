@@ -3,6 +3,22 @@
     <channel>
         <title>Noetira</title>
         <item>
+            <title>1.0.5</title>
+            <pubDate>Thu, 23 Jul 2026 00:26:20 +0800</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.5.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.5.zip" length="8705011" type="application/octet-stream" sparkle:edSignature="jfkxFWLBrPJkVYpU179myXq8m8MO+csjcHs28fHx75JvCaY/5VC0NHXnHHG3E1OKczgVX4W2c4FEvvDsQBdJBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira31-30.delta" sparkle:deltaFrom="30" length="727486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="SwU3lrO0v1PakaCAFW++o+yrCwgk+hrKPGqRnmv9+/uwKAgA1E8svXGmcCYBvrxwFKrrjrxYM78EQw8gGInjDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira31-29.delta" sparkle:deltaFrom="29" length="1115494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="eqkXLxdKsz9viLYFgifK4tdJ1DF4ctDeTGEzoSwvMffo0+8Y5cz0aDvShGP5zup/1v2SGoUruY536TA1pCkLDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira31-28.delta" sparkle:deltaFrom="28" length="1355246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="FqLWX64HohROfBGVPJVlXZYTvRLUkme/rqadusEs6YKdv6XB2tytxvPKC3bHePZHRYQWEissSIcWrwXFIlEYAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira31-27.delta" sparkle:deltaFrom="27" length="1402578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="EtbwxW5F5nPrwqaZtVbIsuXkeMnrTAda8iYBa/BeN6eI462efZCOcfw60OocWXqmw++c+pc4GjGZ20c+acjVAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira31-26.delta" sparkle:deltaFrom="26" length="2406318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="yUV4VKHa2hXRDwGZfsM4UE+FktVuEUq13KbwVD+c4hOKgVet5OemzkYTrFEik1b+lH1vH8wVm54AHSYsQUEjCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.4</title>
             <pubDate>Thu, 23 Jul 2026 00:08:31 +0800</pubDate>
             <sparkle:version>30</sparkle:version>
@@ -39,15 +55,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.2.html</sparkle:releaseNotesLink>
             <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.2.zip" length="8539556" type="application/octet-stream" sparkle:edSignature="WZY8Mu5VVkQioJ56S30cBc6C1t6DFYjK9luBzSWF74PaNatYLu5OlsfriPcgd9jhB8RmJZ6mj+1U/a0W7YxNAg=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Wed, 22 Jul 2026 21:15:06 +0800</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.1.html</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.1.zip" length="8509647" type="application/octet-stream" sparkle:edSignature="szscDbHKC3UefQDI7l5Q9roIYD/Hr3umraf0G9mTZYwmoC/uwRHWQW9boRUrQL/Wx2ImsipawK67lZXyAxuTCQ=="/>
         </item>
     </channel>
 </rss>
