@@ -3,6 +3,22 @@
     <channel>
         <title>Noetira</title>
         <item>
+            <title>1.0.9</title>
+            <pubDate>Thu, 23 Jul 2026 17:00:05 +0800</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.9.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.9.zip" length="9052768" type="application/octet-stream" sparkle:edSignature="6L7ruL1Oka2IRUv5O5b3k5IBXiWT6OyautvUGLiE40zsN4X8cLkKT18yOKDlHlXSrJ7GeEwQtWFedocw/6wiDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira35-34.delta" sparkle:deltaFrom="34" length="1404366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="LNkqDKKmGUP2JtFpD00Zbq3TDY+igZl9LXKUsuUPzL0eFKJ7BOuAGJXl6CtSJyrRD5LWEJtSWC3wuYLL7/DkBQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira35-33.delta" sparkle:deltaFrom="33" length="1674454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="xTAxuulnGcU1jDvTWqckVn3j7klpMNLpsNbVjHNXp+NgEjTgCsobw6Cmpno99tjmnYZUY9wR15zlqguQN4LUAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira35-32.delta" sparkle:deltaFrom="32" length="1709994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="d7t46ODikYMF5taypd12Rvgk2CrypMxd1N6DQifxjVid1KxQVVSoU02uiQlTSn4o7QD+tJnW6+NxtsoO50oKAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira35-31.delta" sparkle:deltaFrom="31" length="1896002" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="qau38zUGbwQhgiYwaTxPwNbybMDn4DrV15DyJtL+ZiUmecbrul8/FFUu2Go4QWOtEQTHXChWOXGNsV2GiE8VDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira35-30.delta" sparkle:deltaFrom="30" length="1902474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="vRDTUTmvxLJNQwE1uyYISdxmxYgE2QAJf5mH5phgqc8DHmwy6RNXNRegUJ6RCfNDGeQYvkpGZjLpPc/2fB3GDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.8</title>
             <pubDate>Thu, 23 Jul 2026 14:42:12 +0800</pubDate>
             <sparkle:version>34</sparkle:version>
