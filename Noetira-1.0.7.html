@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Noetira 1.0.7 更新说明</title>
+</head>
+<body>
+  <h2>Noetira 1.0.7</h2>
+  <ul>
+    <li>修复部分自定义模型在岗位核验和智能选岗中返回文本、但结构化结果无法读取的问题。</li>
+    <li>兼容中文资格结论、字符串数字、缺省数组及更多常见模型输出格式。</li>
+    <li>模型返回 Markdown 或解释文字时，会继续提取其中完整的 JSON 数据。</li>
+    <li>岗位 AI 每批调整为 20 条，降低长输出被模型截断的概率。</li>
+    <li>格式仍不兼容时自动尝试一次 JSON 修复，并在失败时给出更明确的原因。</li>
+  </ul>
+  <p>本次更新不会清除计划、专注、错题图片、复盘、阅读、岗位、激活信息或 API 配置。</p>
+</body>
+</html>
