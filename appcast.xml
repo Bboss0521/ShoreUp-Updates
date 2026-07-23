@@ -3,6 +3,20 @@
     <channel>
         <title>Noetira</title>
         <item>
+            <title>1.0.13</title>
+            <pubDate>Fri, 24 Jul 2026 01:06:21 +0800</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.13.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.13.zip" length="9143073" type="application/octet-stream" sparkle:edSignature="358hPQsrVAHQnS/dMBSzvdd8XRt5ODJqqemJAmj34aHSWxpQkQVravg/KnruARv0dGC+myA/VslpJrrTVr6MAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira39-38.delta" sparkle:deltaFrom="38" length="1235982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="QXyO/RYI/vJC22ch2dKBUrNv6KV/btpVc9dBAvC3zaDvxLfrq2nljA5Zvn7Qp4B2N3z/MdsBEdUw6ItPCytZAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira39-36.delta" sparkle:deltaFrom="36" length="1039574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="83k/o929KCLH9GqOO+croht+HP6m9m+zDkph7PeTN/ioVvwCcXYrFpK57P756SOdWU/8G755WDoA/JtXdyeLAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira39-35.delta" sparkle:deltaFrom="35" length="1423778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="H9abf5hWeF5teu/Z7yM3XDFE/Ge33s5BczGFr9+Lo03EwobQ+Xb5CJRijw9dwzdKxmh9wURGPKdMqpGfvR2VCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.12</title>
             <pubDate>Thu, 23 Jul 2026 23:33:46 +0800</pubDate>
             <sparkle:version>38</sparkle:version>
