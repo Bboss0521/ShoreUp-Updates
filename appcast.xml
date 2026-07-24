@@ -3,6 +3,27 @@
     <channel>
         <title>Noetira</title>
         <item>
+            <title>1.0.20</title>
+            <pubDate>Fri, 24 Jul 2026 22:14:57 +0800</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Noetira 1.0.20</h2>
+<ul>
+<li>全局界面升级为更清晰的原生 macOS 工作台：统一稳定表面、紧凑页眉、细分隔线与更易扫描的信息层级。</li>
+<li>侧边栏按每日执行、学习沉淀与报考决策重新分组；设置固定在底部，今日、计划和专注的工作路径更直接。</li>
+<li>默认配色调整为清雾青瓷，深色模式改用低饱和浅青瓷与石墨表面；朱红仅保留给危险和错误状态。</li>
+<li>专注、错题、阅读、复盘、岗位、设置与激活页同步收敛渐变、阴影和玻璃材质，提升文字、图表和表格的可读性。</li>
+<li>保留全部既有学习、错题、岗位、AI、导入、备份和更新功能；本次不修改任何数据结构或业务判断。</li>
+</ul>
+<p>岗位信息、AI 核验、公告线索和本地初筛均为辅助信息，最终以招录机关官方公告和资格审查为准。</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.20.zip" length="9346804" type="application/octet-stream" sparkle:edSignature="g8HMbRzBGjMU5yZ3FJQ+hdhkRj9Wmg7gjGhecv/9LPBceOMI+KHRM/rCSak29Et39uez0BYnPKtaArPDo+X2Bw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira46-45.delta" sparkle:deltaFrom="45" length="1362422" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="pKTpc73LaqmQa6kQUz6eDJqqefImvZ26aTFUZw8AmS0470ve+FptZ68IULOuSZ0tuJTqxOQojllZP/VBCX/9Ag=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.19</title>
             <pubDate>Fri, 24 Jul 2026 16:42:23 +0800</pubDate>
             <sparkle:version>45</sparkle:version>
