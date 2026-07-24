@@ -3,6 +3,24 @@
     <channel>
         <title>Noetira</title>
         <item>
+            <title>1.0.16</title>
+            <pubDate>Fri, 24 Jul 2026 03:51:28 +0800</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Noetira 1.0.16</h2>
+<ul>
+<li>岗位库改为每页仅加载 20 条岗位，不再把两万余条岗位及其原始表格字段同时载入页面内存。</li>
+<li>本地初筛改为后台分批处理：每批最多 100 条，处理完成即保存；页面重进直接读取已有结论，不会重复初筛。</li>
+<li>岗位首页“本地初筛”卡片分别显示“可报名”和“待确认”数量。</li>
+<li>AI 资格核验会读取全部本地初筛通过和待确认岗位；AI 智能选岗只读取用户标记的目标岗位与主动加入的备选岗位。</li>
+<li>导入、初筛与翻页不再创建多份全量岗位筛选/排序数组，降低大职位表导入后的 CPU 占用和卡顿。</li>
+</ul>
+<p>本地初筛和 AI 核验仅供辅助，最终以招录机关资格审查为准。</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.16.zip" length="9179136" type="application/octet-stream" sparkle:edSignature="npXZZ+fbLI+Ap6FN4lTHaGxxlu95DSpCfgVDOCRDC6pVoO9RMqFpohRbro/bGcbYh3qQMqEmUmw8OTXs3I0ODA=="/>
+        </item>
+        <item>
             <title>1.0.15</title>
             <pubDate>Fri, 24 Jul 2026 03:06:10 +0800</pubDate>
             <sparkle:version>41</sparkle:version>
