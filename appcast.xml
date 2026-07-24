@@ -3,13 +3,43 @@
     <channel>
         <title>Noetira</title>
         <item>
+            <title>1.0.18</title>
+            <pubDate>Fri, 24 Jul 2026 13:30:49 +0800</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Noetira 1.0.18</h2>
+<ul>
+<li>修复本地初筛完成后，顶部统计已更新但岗位列表仍显示“待按当前条件初筛”的状态不同步问题。</li>
+<li>“初筛/AI通过”“需确认”等状态筛选现在从全库查询并分页，不再受当前 20 条列表页面限制。</li>
+<li>公告入口升级为“公告中心”：公告监测与查找公告分开，查找不会自动调用 AI；AI 整理仅在用户主动点击后执行。</li>
+<li>公告监测支持关注地区和多选考试类型，只通知官方公告或已核验原文；聚合站线索仅供用户核对。</li>
+<li>客户端支持公告公共数据包 v2，并保留旧数据包回退；新增开发者工具 Noetira Feed Studio，用于采集、质量检查和生成待发布数据包。</li>
+</ul>
+<p>公告、职位表和本地初筛均为辅助信息，最终以招录机关官方公告和资格审查为准。</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.18.zip" length="9296132" type="application/octet-stream" sparkle:edSignature="aRLXbqi/dUc1wGDBzj9cxvLOgm12Hp/OLI9+/a0K/NSU6m1bDGHr2+N5rEEiYvfd5bfkzRJIy9Gp/qKrp2DuCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira44-43.delta" sparkle:deltaFrom="43" length="1217154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="KDTwB7wFVGkDNRfpIv0pTsMwHX550R7U3KwmecfMIdcjRcXi7n8e8CPxxW1Kuiizcad1dD7u01pSoSZ2topQCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.17</title>
             <pubDate>Fri, 24 Jul 2026 11:20:00 +0800</pubDate>
             <sparkle:version>43</sparkle:version>
             <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.17.html</sparkle:releaseNotesLink>
             <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.17.zip" length="9229091" type="application/octet-stream" sparkle:edSignature="JF28ePnmgnHa3xi48VUDOfujuyWeZhdOa8OA5nV6hvPS/IR+LOAq/JdfZ2kYjiISDqwazUar5+34VyQwhfd+DQ=="/>
+            <description><![CDATA[<h2>Noetira 1.0.17</h2>
+<ul>
+<li>修复大职位表导入成功后返回岗位模块时，岗位模型跨线程访问可能引发的 CPU 持续占用、无响应和闪退。</li>
+<li>岗位首页统计改为数据库计数查询，不再为统计逐条解码全部岗位原始字段。</li>
+<li>本地初筛改为低优先级小批次增量处理，可显示进度并支持停止；离开岗位模块会停止当前任务。</li>
+<li>个人条件发生变化时，返回岗位模块会要求确认是否重新初筛；暂不处理的岗位明确显示为待按当前条件初筛，旧结论不会被当作当前结论。</li>
+<li>新增本地批次摘要缓存，岗位首页和翻页不会被批次统计阻塞。</li>
+</ul>
+<p>本地初筛和 AI 核验仅供辅助，最终以招录机关资格审查为准。</p>
+]]></description>
         </item>
         <item>
             <title>1.0.16</title>
