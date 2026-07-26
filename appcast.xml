@@ -3,6 +3,27 @@
     <channel>
         <title>Noetira</title>
         <item>
+            <title>1.0.21</title>
+            <pubDate>Sun, 26 Jul 2026 17:32:17 +0800</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Noetira 1.0.21</h2>
+<ul>
+<li>岗位关键词搜索现在覆盖完整岗位库，并在全库匹配后按每页 20 条显示结果。</li>
+<li>今日页“开始复盘”现在可以直接进入错题模块。</li>
+<li>复盘历史记录支持打开完整详情、长期保存和单条删除。</li>
+<li>每周 AI 复盘可结合本周已填写的每日复盘记录进行综合分析。</li>
+<li>侧边栏中的复盘与阅读已调整位置，复盘入口更靠前。</li>
+</ul>
+<p>岗位信息、AI 核验、公告线索和本地初筛均为辅助信息，最终以招录机关官方公告和资格审查为准。</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.21.zip" length="9442876" type="application/octet-stream" sparkle:edSignature="5VaQ9Z3GWd/VN9nDPwT5fPFxQxKCEFTTRYscTeyeCe4FAR7Gy6LHTSv/D+SR5x1ymiY0G9wxqiLN/8J/TGghBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira47-46.delta" sparkle:deltaFrom="46" length="1231526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="eITTWTyNjtxQ+ALJ5ZNUeGL23uM0qjmJdTfUqyidPQQ1c/6AT0Qmya9ZPvPwbUu5g65D3XT0GVDELlxRfnSwCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.20</title>
             <pubDate>Fri, 24 Jul 2026 22:14:57 +0800</pubDate>
             <sparkle:version>46</sparkle:version>
@@ -43,172 +64,6 @@
             <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.19.zip" length="9331496" type="application/octet-stream" sparkle:edSignature="Jdu4XjdpOY6+jlX4SV4aKlKQ+BvMzmmI8Qi81TxxjL8BW+HaHolqpLosvU+v0T/nkDlKAYIcWVGhAEhTnsQ9Bw=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira45-44.delta" sparkle:deltaFrom="44" length="1256146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="nKPolU9Ifrl9qtQp2K/c3Do3YEPa4EDaCe/e99DUVkju0gq7HgoHmSN2IRJGY+8icrsCWGoWSGucLDsukeQxCQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.18</title>
-            <pubDate>Fri, 24 Jul 2026 13:30:49 +0800</pubDate>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Noetira 1.0.18</h2>
-<ul>
-<li>修复本地初筛完成后，顶部统计已更新但岗位列表仍显示“待按当前条件初筛”的状态不同步问题。</li>
-<li>“初筛/AI通过”“需确认”等状态筛选现在从全库查询并分页，不再受当前 20 条列表页面限制。</li>
-<li>公告入口升级为“公告中心”：公告监测与查找公告分开，查找不会自动调用 AI；AI 整理仅在用户主动点击后执行。</li>
-<li>公告监测支持关注地区和多选考试类型，只通知官方公告或已核验原文；聚合站线索仅供用户核对。</li>
-<li>客户端支持公告公共数据包 v2，并保留旧数据包回退；新增开发者工具 Noetira Feed Studio，用于采集、质量检查和生成待发布数据包。</li>
-</ul>
-<p>公告、职位表和本地初筛均为辅助信息，最终以招录机关官方公告和资格审查为准。</p>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.18.zip" length="9296132" type="application/octet-stream" sparkle:edSignature="aRLXbqi/dUc1wGDBzj9cxvLOgm12Hp/OLI9+/a0K/NSU6m1bDGHr2+N5rEEiYvfd5bfkzRJIy9Gp/qKrp2DuCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira44-43.delta" sparkle:deltaFrom="43" length="1217154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="KDTwB7wFVGkDNRfpIv0pTsMwHX550R7U3KwmecfMIdcjRcXi7n8e8CPxxW1Kuiizcad1dD7u01pSoSZ2topQCQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.17</title>
-            <pubDate>Fri, 24 Jul 2026 11:20:00 +0800</pubDate>
-            <sparkle:version>43</sparkle:version>
-            <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.17.zip" length="9229091" type="application/octet-stream" sparkle:edSignature="JF28ePnmgnHa3xi48VUDOfujuyWeZhdOa8OA5nV6hvPS/IR+LOAq/JdfZ2kYjiISDqwazUar5+34VyQwhfd+DQ=="/>
-            <description><![CDATA[<h2>Noetira 1.0.17</h2>
-<ul>
-<li>修复大职位表导入成功后返回岗位模块时，岗位模型跨线程访问可能引发的 CPU 持续占用、无响应和闪退。</li>
-<li>岗位首页统计改为数据库计数查询，不再为统计逐条解码全部岗位原始字段。</li>
-<li>本地初筛改为低优先级小批次增量处理，可显示进度并支持停止；离开岗位模块会停止当前任务。</li>
-<li>个人条件发生变化时，返回岗位模块会要求确认是否重新初筛；暂不处理的岗位明确显示为待按当前条件初筛，旧结论不会被当作当前结论。</li>
-<li>新增本地批次摘要缓存，岗位首页和翻页不会被批次统计阻塞。</li>
-</ul>
-<p>本地初筛和 AI 核验仅供辅助，最终以招录机关资格审查为准。</p>
-]]></description>
-        </item>
-        <item>
-            <title>1.0.16</title>
-            <pubDate>Fri, 24 Jul 2026 03:51:28 +0800</pubDate>
-            <sparkle:version>42</sparkle:version>
-            <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Noetira 1.0.16</h2>
-<ul>
-<li>岗位库改为每页仅加载 20 条岗位，不再把两万余条岗位及其原始表格字段同时载入页面内存。</li>
-<li>本地初筛改为后台分批处理：每批最多 100 条，处理完成即保存；页面重进直接读取已有结论，不会重复初筛。</li>
-<li>岗位首页“本地初筛”卡片分别显示“可报名”和“待确认”数量。</li>
-<li>AI 资格核验会读取全部本地初筛通过和待确认岗位；AI 智能选岗只读取用户标记的目标岗位与主动加入的备选岗位。</li>
-<li>导入、初筛与翻页不再创建多份全量岗位筛选/排序数组，降低大职位表导入后的 CPU 占用和卡顿。</li>
-</ul>
-<p>本地初筛和 AI 核验仅供辅助，最终以招录机关资格审查为准。</p>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.16.zip" length="9179136" type="application/octet-stream" sparkle:edSignature="npXZZ+fbLI+Ap6FN4lTHaGxxlu95DSpCfgVDOCRDC6pVoO9RMqFpohRbro/bGcbYh3qQMqEmUmw8OTXs3I0ODA=="/>
-        </item>
-        <item>
-            <title>1.0.15</title>
-            <pubDate>Fri, 24 Jul 2026 03:06:10 +0800</pubDate>
-            <sparkle:version>41</sparkle:version>
-            <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Noetira 1.0.15</h2>
-<ul>
-<li>本地初筛仅在完成并确认个人条件后启用，避免默认资料造成误判。</li>
-<li>专业代码、目录层级、学历、学位、性别、政治面貌、应届身份等关键资料必须完整；公告缺少字段不再视为“不限”。</li>
-<li>专业判断优先使用目录代码与层级；公告描述无法可靠映射时标记为“需确认”，不再把模糊原始文本当作硬性限制。</li>
-<li>岗位页不再在每次进入时自动重跑初筛；初筛结果写入本地缓存，重进页面直接复用，显著降低导入两万余岗位后的卡顿。</li>
-<li>补充“机关（单位）代码”等部门代码表头别名，减少不同公告格式导致的岗位合并丢失。</li>
-</ul>
-<p>本地初筛仅供辅助，最终以招录机关资格审查为准。</p>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.15.zip" length="9178481" type="application/octet-stream" sparkle:edSignature="neQUZ7wKGBwbTmwkuCz6y11DHbUG1uCpwDQsopnA+FLQ33cDVztRGZ6DLJa/d5OnPXC2Ejl1TM13nb9Xb05VAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira41-40.delta" sparkle:deltaFrom="40" length="1153714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="QS9H+tSu5cd3D94JNahA0dCeQEhkndS50ieqxik3iyf6lRsJSsCvWjMqQhZNJ61W9as+CKy3KhBcgpSrEuRCCA=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira41-39.delta" sparkle:deltaFrom="39" length="1324762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="P0buni4ga9AnnejO7gR6RbJkOMIIxFzv431iSPT5CUyCsjJzpC8bzYtLdOhNFSlxFx5Pu+i1NRazP2Yu36zgBw=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira41-38.delta" sparkle:deltaFrom="38" length="1349374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="uDP4WP5CKkWGBcT5d4mynBR+/rq+kLJBQoqxlSxMXe5a5hvbavrfBBxojctW3M80UM+TV459ONOTYcWdnLm2Bg=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira41-36.delta" sparkle:deltaFrom="36" length="1318426" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="AcM7SpDMhVgt0n99pRq2nyDjNJm9I8mzKYiPMf/bVuBC53/Jl9pwrH/vC6hud1niSAEJAbnv+Bj9MMWCnhwLDw=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira41-35.delta" sparkle:deltaFrom="35" length="1566674" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="+A249qFOlFzgEGiF9/Qsieq4NgPbJocDYyfaaNbkBAXt6JrnxA2nGQXa06p3+wC9HrLmGa/x3trQQUAuI52ECg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.14</title>
-            <pubDate>Fri, 24 Jul 2026 01:54:03 +0800</pubDate>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.14.zip" length="9154070" type="application/octet-stream" sparkle:edSignature="32Izl16ZXC1mpqfmzRQXm14+UCmpo2jzeUHAouw1yj/Bh8jWz9FiRzYkYQ3B8HZxZ35nw/sCLfYPLnLADqBtCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira40-39.delta" sparkle:deltaFrom="39" length="1181630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="pLuDRBhF/aY7WO6PKA8ME2fxhLLGqArvEDpm95txwUxKr3JCwkoo/BcE7u/W6txhRJ2MBVuTeGTbwCymlLB3AQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira40-38.delta" sparkle:deltaFrom="38" length="1258714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="RyK70mokS3pPrBskuWF5Y7OMe54VGq55qGZzgWiQx5WfCgtvai2odrJR/SQSMRT1agdB9jkJZJ9yFfo/V8aGAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira40-36.delta" sparkle:deltaFrom="36" length="1226790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="1FyS7f7qjC/u7JzrC1867H/n6OACIRrC88Krid3f/2gUd/ZUffzKZfrJg6JkYeuW3+Jqcv/dOllinrclhnP5Bw=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira40-35.delta" sparkle:deltaFrom="35" length="1464466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="byxBvxIJ9gh86xxDVVZxBVKfMNc4y6AB52bR161R6KEd3cWEGEI57+hzCics5KFthhXhhm2vRLuUFbe8FF9BBw=="/>
-            </sparkle:deltas>
-            <description><![CDATA[<h2>Noetira 1.0.14</h2>
-<ul>
-  <li>修复国考等职位表中“职位代码”在不同部门重复时被错误合并的问题，导入数量现按“部门代码 + 职位代码”准确保留。</li>
-  <li>兼容部门代码、单位代码、机关代码、招录机关代码等常见表头，降低不同考试职位表的漏导入风险。</li>
-  <li>本地初筛结果会保存到本机；再次进入岗位模块不再重复初筛。</li>
-  <li>优化大批量岗位导入后的列表缓存、排序和筛选，降低岗位模块 CPU 占用与卡顿。</li>
-</ul>
-]]></description>
-        </item>
-        <item>
-            <title>1.0.13</title>
-            <pubDate>Fri, 24 Jul 2026 01:06:21 +0800</pubDate>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.13.html</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.13.zip" length="9143073" type="application/octet-stream" sparkle:edSignature="358hPQsrVAHQnS/dMBSzvdd8XRt5ODJqqemJAmj34aHSWxpQkQVravg/KnruARv0dGC+myA/VslpJrrTVr6MAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira39-38.delta" sparkle:deltaFrom="38" length="1235982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="QXyO/RYI/vJC22ch2dKBUrNv6KV/btpVc9dBAvC3zaDvxLfrq2nljA5Zvn7Qp4B2N3z/MdsBEdUw6ItPCytZAg=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira39-36.delta" sparkle:deltaFrom="36" length="1039574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="83k/o929KCLH9GqOO+croht+HP6m9m+zDkph7PeTN/ioVvwCcXYrFpK57P756SOdWU/8G755WDoA/JtXdyeLAA=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira39-35.delta" sparkle:deltaFrom="35" length="1423778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="H9abf5hWeF5teu/Z7yM3XDFE/Ge33s5BczGFr9+Lo03EwobQ+Xb5CJRijw9dwzdKxmh9wURGPKdMqpGfvR2VCA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.12</title>
-            <pubDate>Thu, 23 Jul 2026 23:33:46 +0800</pubDate>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.12.html</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.12.zip" length="9203070" type="application/octet-stream" sparkle:edSignature="+SO1DC3kuTUfcbqgfz4i18geg3URIcTwfJ3n+7fpBCV+a5bjcuJs5RzYBtQNP3J/IczFTiKeaCrXcA8YBDu/Dg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira38-36.delta" sparkle:deltaFrom="36" length="1309370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="YBGCInfMner27L7eYCOJri+92aw59aDGSlEarTxogoNSO1fsjJ3bgxOpaQR3BwkI3qCyOfNRPghFjsbJfW2wBA=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira38-35.delta" sparkle:deltaFrom="35" length="1542218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="2flEXbSfO+Og/NGUOPYRd8FIQJzAr179/ze/QB9BzepeRqfBipOalREF1ZIxUOL4MEyw2n4krDj5EgjIcnt7Cg=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira38-34.delta" sparkle:deltaFrom="34" length="1699250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="WKyGuVO/IYpjPpykMkyNuK4PZAYg6zOsNssLbKQPWhMPlph736uzWojweoISAhnfnAHB/8L0O8qeaqSNeHi5Cg=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira38-33.delta" sparkle:deltaFrom="33" length="1905638" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="XYMM3IySYZlLIzAjmFAR8oSd4fLlFTOqEEZLvwRqpqT81Hx2pu2l/71LHiIgQ/NMdOzrvnBakntnbH8syUYvCQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira38-32.delta" sparkle:deltaFrom="32" length="1956186" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="pJt4EQ1kmuur80eDks+2KjAu1EkuPaRwWoR3s4jBniEknVNunCh2gwi8Fqd+3Fuu7O4GAttvHjlMWZ0Ot5RnCQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.10</title>
-            <pubDate>Thu, 23 Jul 2026 21:50:30 +0800</pubDate>
-            <sparkle:version>36</sparkle:version>
-            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.10.html</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.10.zip" length="9136514" type="application/octet-stream" sparkle:edSignature="UDc3apl/ZavaM9piWGXGiD0EhNOvanzn6gUyU3jSkG90nfN0M+/zmVmMbs/NpCu9Sh7G2vWnUdDTeBnMaq8sBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira36-35.delta" sparkle:deltaFrom="35" length="1409054" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="77kK+/kULm0kiSnCXwu+3HIZj2m/n3AM6N2uMB4YHDTVV/FWbBWMNrbs9B0AdS17s9yBD9vu51mG7ncUPMktAg=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira36-34.delta" sparkle:deltaFrom="34" length="1578302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="mZIYtVlWg/gCygE48EDWyePgFpQX5dF4K0soTh5lhCESoxL4sMyT85plOMlZ/o3hqfrYtaZKSOTBh3TESIJMCw=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira36-33.delta" sparkle:deltaFrom="33" length="1836866" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Q2PkT/fCYs1hMrndMvhfSwb+u87I/ncvTSVf86EckLCFyWP75HYi5lOjo7cecaXpgKmTkkT16td+8JrDa/trAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira36-32.delta" sparkle:deltaFrom="32" length="1846242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="cXSHPzI5RG+uSHdBw4cg/cCAie8/anRUcTk1JurajwBcC4OFHI6JhP7V95oVG2df7B0PuuydHg4Kef8Z4251Bg=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira36-31.delta" sparkle:deltaFrom="31" length="2019902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="egJcF3YQIiEcgYRO9dlHrPmMs0f0XOJM3K9WEhe3sX6iSgbZBNBG6j4eH5uFcFj+YxXCHYeakWAPbMMWZAnhBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.9</title>
-            <pubDate>Thu, 23 Jul 2026 17:00:05 +0800</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.9.html</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira-1.0.9.zip" length="9052768" type="application/octet-stream" sparkle:edSignature="6L7ruL1Oka2IRUv5O5b3k5IBXiWT6OyautvUGLiE40zsN4X8cLkKT18yOKDlHlXSrJ7GeEwQtWFedocw/6wiDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira35-34.delta" sparkle:deltaFrom="34" length="1404366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="LNkqDKKmGUP2JtFpD00Zbq3TDY+igZl9LXKUsuUPzL0eFKJ7BOuAGJXl6CtSJyrRD5LWEJtSWC3wuYLL7/DkBQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira35-33.delta" sparkle:deltaFrom="33" length="1674454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="xTAxuulnGcU1jDvTWqckVn3j7klpMNLpsNbVjHNXp+NgEjTgCsobw6Cmpno99tjmnYZUY9wR15zlqguQN4LUAA=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira35-32.delta" sparkle:deltaFrom="32" length="1709994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="d7t46ODikYMF5taypd12Rvgk2CrypMxd1N6DQifxjVid1KxQVVSoU02uiQlTSn4o7QD+tJnW6+NxtsoO50oKAA=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira35-31.delta" sparkle:deltaFrom="31" length="1896002" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="qau38zUGbwQhgiYwaTxPwNbybMDn4DrV15DyJtL+ZiUmecbrul8/FFUu2Go4QWOtEQTHXChWOXGNsV2GiE8VDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/Bboss0521/ShoreUp-Updates/main/Noetira35-30.delta" sparkle:deltaFrom="30" length="1902474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="vRDTUTmvxLJNQwE1uyYISdxmxYgE2QAJf5mH5phgqc8DHmwy6RNXNRegUJ6RCfNDGeQYvkpGZjLpPc/2fB3GDw=="/>
             </sparkle:deltas>
         </item>
     </channel>
