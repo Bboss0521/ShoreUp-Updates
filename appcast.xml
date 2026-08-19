@@ -3,6 +3,26 @@
     <channel>
         <title>Noetira</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Wed, 19 Aug 2026 22:52:00 +0800</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Noetira 1.1.0</h2>
+<ul>
+<li>每周复盘计划完成率改为按每日计划完成项数统计，口径与每日复盘和计划页一致。</li>
+<li>阅读模块统一为浅色细线 UI，优化申论写作积累、时政整理切换、生成按钮和日期选择。</li>
+<li>岗位模块与设置模块统一按钮、字体和布局，与计划、错题模块视觉体系保持一致。</li>
+<li>正式版恢复 Noetira 数据目录与旧版本迁移逻辑，应用内更新会保留原有学习数据。</li>
+</ul>
+<p>岗位信息、AI 核验、公告线索和本地初筛均为辅助信息，最终以招录机关官方公告和资格审查为准。</p>
+]]></description>
+            <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.1.0/Noetira-1.1.0.zip" length="50562353" type="application/octet-stream" sparkle:edSignature="GBaur1AyorpRuj6wl9e9f6M+WuqzYJ5gdPUT+yapOYP+GSTf5BCXN8FJ0UIifY3si3GqCy/rCGODY5zJBRikCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.1.0/Noetira48-47.delta" sparkle:deltaFrom="47" length="39031246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="MMsolIpt8+8YiTPySUI0E7LzKlbx4fbtRuNXQ7HIdRgsvgHBgtL7fBWpQZy+nvVhkY+pHUuvrPH2kKxzUNxQDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.21</title>
             <pubDate>Sun, 26 Jul 2026 17:32:17 +0800</pubDate>
             <sparkle:version>47</sparkle:version>
