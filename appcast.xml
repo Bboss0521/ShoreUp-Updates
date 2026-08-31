@@ -3,6 +3,26 @@
     <channel>
         <title>Noetira</title>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Mon, 31 Aug 2026 20:00:00 +0800</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Noetira 1.2.1（Build 51）</h2>
+<h3>修复</h3>
+<ul>
+<li>今日计划“开始专注”倒计时自然结束或手动完成后，现在会自动写入今日专注记录，并自动完成对应的计划任务。</li>
+<li>错题新增稳定编号：错题列表每道题都有 #编号，Hermes 报编号即可定位单题；错题接口补充 A/B/C/D 选项与错因，并新增按编号获取题干、选项、正确答案和解析的详情接口。</li>
+<li>修复学习 App 自动计时失效：所选学习 App 位于前台时正常计时，切换到其他 App、锁屏或睡眠时暂停。</li>
+</ul>
+<p>岗位信息、AI 核验、公告线索和本地初筛均为辅助信息，最终以招录机关官方公告和资格审查为准。</p>
+]]></description>
+            <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.1-build51/Noetira-1.2.1.zip" length="50877563" type="application/octet-stream" sparkle:edSignature="7sFfkT6/RzHO+lXEFTdDFzHchwjqA2faCk2wCql/0wGHj9F/MSWPmcKfad9zfb37iv9Q96jq2kGxqtO87N98BQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.1-build51/Noetira51-50.delta" sparkle:deltaFrom="50" length="2273046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Xniir4X4OExpMD32rNaku+i1o7heX0dynkYFXNKvqL4S4pGexUUK2w1oUf809GK479AiXAmisojeqA6pHXaEAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Sun, 30 Aug 2026 21:00:00 +0800</pubDate>
             <sparkle:version>50</sparkle:version>
