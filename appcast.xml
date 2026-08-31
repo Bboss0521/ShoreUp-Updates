@@ -3,6 +3,25 @@
     <channel>
         <title>Noetira</title>
         <item>
+            <title>1.2.2</title>
+            <pubDate>Mon, 31 Aug 2026 20:30:00 +0800</pubDate>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Noetira 1.2.2（Build 52）</h2>
+<h3>优化</h3>
+<ul>
+<li>AI 请求超时时间上限提升至 600 秒：可在“设置 → AI 与 API”中调整为 30–600 秒。</li>
+<li>申论写作积累与时政整理改为后台生成：离开阅读页面后任务不中断，回到页面可继续看到生成状态与结果。</li>
+</ul>
+<p>岗位信息、AI 核验、公告线索和本地初筛均为辅助信息，最终以招录机关官方公告和资格审查为准。</p>
+]]></description>
+            <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.2-build52/Noetira-1.2.2.zip" length="50907479" type="application/octet-stream" sparkle:edSignature="3HlRgzs73zZE6UYEDa3ZHLIEAwV6Oztv1URk+W6pAU4gjUbzOmS9BUXq+fkbPs0ySh9n62E2FDPb/Ox+YFPJDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.2-build52/Noetira52-51.delta" sparkle:deltaFrom="51" length="2037014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="QVbAQaLcS/PAbeONl8xLJIfHq4OvvxMIOUn/XXbPJXgZWwRM4ecf4iP7fPtKcBBJnmV7fO4yN8q+FsSoJuX9Aw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.1</title>
             <pubDate>Mon, 31 Aug 2026 20:00:00 +0800</pubDate>
             <sparkle:version>51</sparkle:version>
