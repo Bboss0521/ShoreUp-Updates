@@ -3,6 +3,26 @@
     <channel>
         <title>Noetira</title>
         <item>
+            <title>1.2.3</title>
+            <pubDate>Tue, 01 Sep 2026 21:00:00 +0800</pubDate>
+            <sparkle:version>53</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Noetira 1.2.3（Build 53）</h2>
+<h3>新增</h3>
+<ul>
+<li>错题细分题型与易错原因支持常驻自定义：录入一次后，后续在录入和编辑时可直接选择。</li>
+<li>错题提交后可在“更多”菜单点击“编辑分类”，随时修改主要模块、细分题型、易错原因和自定义说明。</li>
+<li>Hermes 接口新增错题分类读取、修改与自定义选项管理：GET/POST /api/learning/mistake-options、POST /api/learning/mistakes/&lt;编号&gt;。</li>
+</ul>
+<p>岗位信息、AI 核验、公告线索和本地初筛均为辅助信息，最终以招录机关官方公告和资格审查为准。</p>
+]]></description>
+            <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.3-build53/Noetira-1.2.3.zip" length="50993173" type="application/octet-stream" sparkle:edSignature="dNI5EiUCggmmlpIVm+X0iu4UHH3CNpn8/HkpqQswGOLm/I5tntvFPlXraNYmcyRgorkYRx0qfN+QIg0LUzwkDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.3-build53/Noetira53-52.delta" sparkle:deltaFrom="52" length="2219594" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="FQnH8flpVr4ETQ++IvumvGuB6NNXk8frDSIPkdQgfW8QbbGKas6VB4yDVFz5Sgw7vFdkZj8c88rvL1xPCAnXDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.2</title>
             <pubDate>Mon, 31 Aug 2026 20:30:00 +0800</pubDate>
             <sparkle:version>52</sparkle:version>
