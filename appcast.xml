@@ -3,6 +3,28 @@
     <channel>
         <title>Noetira</title>
         <item>
+            <title>1.2.5</title>
+            <pubDate>Wed, 02 Sep 2026 23:20:00 +0800</pubDate>
+            <sparkle:version>55</sparkle:version>
+            <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Noetira 1.2.5（Build 55）</h2>
+<h3>修复</h3>
+<ul>
+<li>修复 Hermes / 本地 Agent 连接偶发「缺少有效令牌」：Agent 令牌改为跨启动持久化，App 重启后不再因令牌轮换而失配。</li>
+<li>今日计划新增完成度展示：顶部与「计划完成」卡片显示完成百分比与进度条，单个任务行显示部分完成进度（未开始 / 百分数 / 完成）。</li>
+<li>今日计划任务可设置开始时间，到点通过 macOS 原生通知提醒（默认提示音）；完成任务、删除任务或存入待安排时会自动取消提醒。</li>
+<li>Hermes 接口同步支持完成度：/api/learning/today 每项任务新增 completion、focusedSeconds，统计新增 planPercent。</li>
+<li>移除语言设置中的 English 选项，仅保留「跟随系统」与「简体中文」，默认简体中文，避免切换英文后部分界面仍显示中文。</li>
+<li>专注页时长按钮（25/40/50/60/90 分钟）改为仅边框 + 框内浅色底色，并移除按钮外围多余底色。</li>
+</ul>
+<p>岗位信息、AI 核验、公告线索和本地初筛均为辅助信息，最终以招录机关官方公告和资格审查为准。</p>]]></description>
+            <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.5-build55/Noetira-1.2.5.zip" length="51056647" type="application/octet-stream" sparkle:edSignature="bfc4Ik63WpfZLi7wjed5lYyJgLwbAlR7uR9IWB0suilILU4uVnXClrmNP2yDygVw5nbtbk/PmrPwArL5d7rxCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.5-build55/Noetira55-54.delta" sparkle:deltaFrom="54" length="2299106" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="JAkcSD/nJFt9vXxEYp/Nqwkxc2KBvIsJhXm/BGUMo4l2Bz3QPfoDe+k+k278eJHJDTsEJX1p8ObLl+CzX3wMAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.4</title>
             <pubDate>Tue, 01 Sep 2026 22:00:00 +0800</pubDate>
             <sparkle:version>54</sparkle:version>
