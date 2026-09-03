@@ -4,6 +4,34 @@
         <title>Noetira</title>
 
         <item>
+            <title>1.2.7</title>
+            <pubDate>Thu, 03 Sep 2026 23:00:00 +0800</pubDate>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Noetira 1.2.7（Build 57）</h2>
+<h3>Hermes 学习监督接口增强</h3>
+<ul>
+<li>新建错题：Hermes 可直接写入结构化错题，App 自动编号并纳入错题本。</li>
+<li>写复盘：每日/每周复盘正文与标签可落库，读接口回读正文与标签。</li>
+<li>错题状态流转：支持标记已掌握/重新待复习，错题本只进不出的问题解决。</li>
+<li>更新考试信息：可改考试名称、手动考试日期、目标地区与目标分；设置页新增目标分。</li>
+<li>薄弱点矩阵：近 N 天「模块 × 题型」正确率与样本数，用于精准加练建议。</li>
+<li>删除错题：直接清除误录错题。</li>
+</ul>
+<p>岗位信息、AI 核验、公告线索和本地初筛均为辅助信息，最终以招录机关官方公告和资格审查为准。</p>
+]]></description>
+            <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.7-build57/Noetira-1.2.7.zip" length="51309166" type="application/octet-stream" sparkle:edSignature="h/SI/z2WiYEjlIJDlyfhubLgssR/A7Pru2NGqKiKLIyGbSWHpOWp3WZX0pFQ45zG8XgVI8+rZqOqaPxZFDntDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.7-build57/Noetira57-56.delta" sparkle:deltaFrom="56" length="2502674" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="haWtmz10miibfcbJaINkujfFBMujVKnKv9wxtL2NNi0vX6tF5Eas+RA41gdrhaHxrg8jIAV7LtjT4L48wtysDA=="/>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.7-build57/Noetira57-55.delta" sparkle:deltaFrom="55" length="3984830" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="8wU+hPUAkUAFsvpqTLb2SJ8gF5LkBkAJ8CF6+cHXo4edNi+X/YPeSAHn2EhPNjLwnY+gaYa4wjbpi3JD4mwQBQ=="/>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.7-build57/Noetira57-54.delta" sparkle:deltaFrom="54" length="4154314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="EkqlQ4XpwVGRP1m4T7kRe72Rofl/k+J+x8uttAcMkmiT8WcYhla/K+nIgLfqtjP6J+/28rmsrk5W5apSXrNPBQ=="/>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.7-build57/Noetira57-53.delta" sparkle:deltaFrom="53" length="4170890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="A95Z+o0YaTsB5pdRfazsRFGRp+zdgPHtttMTD0VgrGL0dPKX6CULc4grbnu4Z5kB8HhVNDDQGkQfM4NzaPKoAA=="/>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.7-build57/Noetira57-52.delta" sparkle:deltaFrom="52" length="4251246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="K7+W9XgHudvcaJYNaC40nCR/dyadZ8R0Afm5HUHKi7i7Rm/coIlYzGgkKRpd5lF0QI3HY5duKmYSHDaqW3iYCg=="/>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.7-build57/Noetira57-51.delta" sparkle:deltaFrom="51" length="4342666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="NhPArpT/cN9LwY2F2NLnF3rzhbCyjovEhP+lOFkvFZuJ0qGDYY7jvwYmgMxSjoYjVEICY/bHB/dvy0lcj8/DAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.6</title>
             <pubDate>Thu, 03 Sep 2026 19:30:00 +0800</pubDate>
             <sparkle:version>56</sparkle:version>
