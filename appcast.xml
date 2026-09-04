@@ -4,6 +4,47 @@
         <title>Noetira</title>
 
         <item>
+            <title>1.2.8</title>
+            <pubDate>Sat, 05 Sep 2026 10:30:00 +0800</pubDate>
+            <sparkle:version>58</sparkle:version>
+            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Noetira 1.2.8（Build 58）</h2>
+<h3>错题复盘一致性</h3>
+<ul>
+<li>修复重做/复盘时选项打乱后，答案、选项与解析逐处字母引用不一致的问题；解析中“A/B/C/D 项”会随当前显示顺序同步更新，正文内容不被改写。</li>
+</ul>
+<h3>错题注疏增强</h3>
+<ul>
+<li>注疏页展示题干与全部选项并标出正确项；右侧注疏要领完整展示易错原因、关键解析、解题流程、解题图片与复盘指引。</li>
+</ul>
+<h3>Hermes 接口扩展</h3>
+<ul>
+<li>错题：详情/修改支持题干、选项、正确答案、解析、解题流程、AI 解析、图片删除等全字段，Hermes 可直接维护错题内容。</li>
+<li>专注：可开启一段主动专注，与 App 内计时器同步。</li>
+<li>阅读：可导出/生成申论与时政阅读数据（含摘抄注解），便于分析与核对。</li>
+<li>刷题：可导出整模块完整题目、检测题库重复、维护本地补丁题（不改内置题库）。</li>
+<li>扩展导出 data-export-v2：一次获取计划/错题/专注/复盘/阅读/补丁数据。</li>
+</ul>
+<h3>模型兼容与稳定性</h3>
+<ul>
+<li>结构化 AI 解析增加通用容错：兼容包装层、数组/单元素包裹、截断/尾逗号、空值清理等输出差异，换模型后阅读与复盘生成更稳定。</li>
+</ul>
+<p>岗位信息、AI 核验、公告线索和本地初筛均为辅助信息，最终以招录机关官方公告和资格审查为准。</p>
+]]></description>
+            <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.8-build58/Noetira-1.2.8.zip" length="51673737" type="application/octet-stream" sparkle:edSignature="hqWvEW6U4VYmSFKqAcMSNNGnMWewgPJlVqYx7vh4ZywS1xquPoV0Weij/pjYN2lp754Cozee2L2V4AIpRxopAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.8-build58/Noetira58-57.delta" sparkle:deltaFrom="57" length="3063918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Ddj3rsPVD1ndoYw/agfb7Ihm3u74vlaXQDn1jb2war/2RHvCqVkbnzj0/HVQYkWvGogY2Qiu8+ymf1DLk7cmCQ=="/>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.8-build58/Noetira58-56.delta" sparkle:deltaFrom="56" length="3228978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ThmwhMy5vASZdx0c4buLC95ztKiILdBnRD/Fv7I/aYHl+2AGiOQnK1B6OhxyeFar499Gm+KwAGrQuM8PL/fpCQ=="/>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.8-build58/Noetira58-55.delta" sparkle:deltaFrom="55" length="4510466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="UtbEwfe9NnlgA4+gcxlo2JJ+Iv2JSf3PzYZjFOovoAOe9R87SEcEvmJJ4ujEBh1+i7wAwPaxkZzG5N/4rATKBA=="/>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.8-build58/Noetira58-54.delta" sparkle:deltaFrom="54" length="4674302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="NbwZz2+6LTgute6E9SaKnbpOJGR2LSN0mcqjAK4OWDRQTE8YAclHu7x77FTSiKPzDL2bastRUX4l0Ai1UoQKCw=="/>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.8-build58/Noetira58-53.delta" sparkle:deltaFrom="53" length="4672370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="aoqpSstl+Izky5thjXQhHMHNUsPviD2RoUj8rg+6mXCKrfYuZkprXz7L6bhace2+vFhQgO5fRtmpWS+7jJkSAA=="/>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.8-build58/Noetira58-52.delta" sparkle:deltaFrom="52" length="4746602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ojPn7uCclzr6jFEcGEtMDQBruFPhsdSm2q66hmHqPdMq66ylrFtiytgvp1rRcWwWXzn7tt/HwMhC3SoPCFsFAg=="/>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.8-build58/Noetira58-51.delta" sparkle:deltaFrom="51" length="4810662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="p/DlozAQ3fvguWS0+ZGN0s6z/lxkjDNfLnx0DMYPViyjYCF1fCYwTQhbzgTe3b+pc7r8vvLIrkziwS6U6WbzBA=="/>
+            </sparkle:deltas>
+        </item>
+
+        <item>
             <title>1.2.7</title>
             <pubDate>Thu, 03 Sep 2026 23:00:00 +0800</pubDate>
             <sparkle:version>57</sparkle:version>
