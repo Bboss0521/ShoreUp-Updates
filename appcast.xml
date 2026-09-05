@@ -4,6 +4,32 @@
         <title>Noetira</title>
 
         <item>
+            <title>1.2.9</title>
+            <pubDate>Sat, 05 Sep 2026 11:30:00 +0800</pubDate>
+            <sparkle:version>59</sparkle:version>
+            <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Noetira 1.2.9（Build 59）</h2>
+<h3>阅读模块申论生成稳定性修复</h3>
+<ul>
+<li>修复“申论写作积累/时政整理”在部分模型下报“AI 返回了文本，但其中的结构化数据无法读取”的问题。</li>
+<li>兼容模型把 bestFor/thesis/usage/context 等单值字段输出为数组时自动合并为文本，不再因单条字段类型不一致导致整次生成失败。</li>
+<li>兼容 ```json 代码围栏、输出被截断/缺少闭合括号等形态，宽容修复后仍可正常生成。</li>
+<li>更换其他模型后同样适用；解析仍失败时会保存完整原文到 Noetira/AIParseFailures 便于定位。</li>
+</ul>
+<p>岗位信息、AI 核验、公告线索和本地初筛均为辅助信息，最终以招录机关官方公告和资格审查为准。</p>
+]]></description>
+            <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.9-build59/Noetira-1.2.9.zip" length="51721449" type="application/octet-stream" sparkle:edSignature="ovVHQ0fVCYFO7npK56vWy1LdQJQTY3j2megy0M7Av603mxwfE7UILwnQXcikpR4cDUTDanwRLCnooCFD0qvpAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.9-build59/Noetira59-58.delta" sparkle:deltaFrom="58" length="1873162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="9MkN/kNGL3sC533rFXaeWr/kGTFgPmU3r2D5Mytjqr7nmqua+F3ka30HrTSwtxMHjJM5xssAS0sUpRCOevRQCg=="/>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.9-build59/Noetira59-57.delta" sparkle:deltaFrom="57" length="3095338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="DbJPcPmmw750B6i87w+ZtjZyLH7LrnWoGlvSmk/ISu/ZWtjDtFbzEtFRMwqXTE3Dkt96KqmLiOHyx5bYmVPMBw=="/>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.9-build59/Noetira59-56.delta" sparkle:deltaFrom="56" length="3260630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="hANcgg7mruz9YhGfW2wU9030qXtfyVXvAS7jQoHtVZBkSYS66HrNuSBBKiTvLD0Cy3jTPgVYPLw3r7PQFHCwAA=="/>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.9-build59/Noetira59-55.delta" sparkle:deltaFrom="55" length="4554334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="vuNf2InyJRz1lCaUpb92P0ShM2/M28VS6R42QBx1yDiRdEbqDAJfgZLgIWo3sfpMrN9zW3aTKaauCTUtsvasCA=="/>
+                <enclosure url="https://github.com/Bboss0521/ShoreUp-Updates/releases/download/v1.2.9-build59/Noetira59-54.delta" sparkle:deltaFrom="54" length="4706694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="rRm3flcoVS5c7xH5BrzO6MyeCf59mZTXqjhk78qWD5PlubfByvgA2YvNU9JdtIWLC/Ny0iqML6u8JWgShYQiAA=="/>
+            </sparkle:deltas>
+        </item>
+
+        <item>
             <title>1.2.8</title>
             <pubDate>Sat, 05 Sep 2026 10:30:00 +0800</pubDate>
             <sparkle:version>58</sparkle:version>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<title>Noetira 1.2.9（Build 59）</title>
+<style>body{font-family:-apple-system,"PingFang SC",sans-serif;max-width:760px;margin:40px auto;padding:0 20px;line-height:1.7;color:#222}h2{border-bottom:2px solid #d7b56d;padding-bottom:10px}h3{color:#8a6d1f;margin-top:28px}li{margin:6px 0}</style>
+</head>
+<body>
+<h2>Noetira 1.2.9（Build 59）</h2>
+<p>本次更新修复阅读模块“申论写作积累/时政整理”生成时报错的问题。</p>
+<h3>阅读模块申论生成稳定性修复</h3>
+<ul>
+<li>修复部分模型下生成申论写作积累/时政整理出现“AI 返回了文本，但其中的结构化数据无法读取”的错误。</li>
+<li>兼容模型把 bestFor / thesis / usage / context 等单值字段输出为数组，自动合并为文本，不再因单条字段类型不一致导致整次失败。</li>
+<li>兼容 ```json 代码围栏、输出截断或缺少闭合括号，宽容修复后正常生成。</li>
+<li>修复逻辑与具体模型无关，更换模型后同样稳定；仍失败时会保存完整原文，便于快速定位。</li>
+</ul>
+<p>岗位信息、AI 核验、公告线索和本地初筛均为辅助信息，最终以招录机关官方公告和资格审查为准。</p>
+</body>
+</html>
